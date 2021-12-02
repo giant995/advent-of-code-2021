@@ -22,7 +22,6 @@ def evaluate_increases(groups):
 
 
 # Part 1
-increases = 0
 pairs = pairwise(lines)
 evaluate_increases(pairs)
 
